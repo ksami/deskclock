@@ -1,3 +1,9 @@
+;;;;;;;;;;;;;;;;;
+;   deskClock   ;
+; Author: ksami ;
+;;;;;;;;;;;;;;;;;
+
+
 #include <GUIConstantsEx.au3>
 #include <WindowsConstants.au3>
 #include <WINAPI.au3>
